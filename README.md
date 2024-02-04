@@ -22,9 +22,9 @@
 <hr>
 <div align="center" dir="auto">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroRi99&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroRi99&theme=dark&locale=pt-br" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroRi99&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroRi99&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br" />
 </a>
 </div>
