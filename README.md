@@ -8,7 +8,7 @@
 <h3> 👨🏽‍💼 Sobre Mim </h3>
 <hr>
 <p>Sou desenvolvedor full stack, apaixonado por tecnologia, com conhecimento em aplicações web, atuando na área por mais de um ano e meio.<br><br>
-. 🖥️ Começei atuando como Trainee após conclusão do Curso .Net Forsft - Senac RJ e Atualmente trabalho na posição de Desenvolvedor Web Full Stack Junior, usando PHP, Zend Framework, JavaScript, Jquery, AWS, S3, SQL e Postgres.<br>
+. 🖥️ Começei atuando como Trainee após conclusão do Curso .Net Forsft - Senac RJ e Atualmente trabalho na posição de Desenvolvedor Web Full Stack Junior, usando PHP, Laravel, Zend Framework, JavaScript, Jquery, AWS, S3, SQL e Postgres.<br>
 . 📚 No momento estou cursando Análise e Desenvolvimento de sistemas e estou buscando conhecimento e aprimoramento em outras linguagens como Python.<br>
 . 👨🏽‍💻 Gosto de fazer projetos e sempre busca de novos desafios.</p>
 
